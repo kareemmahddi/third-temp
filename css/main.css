@@ -1876,6 +1876,7 @@ ul {
 .footer .box .line .info {
   line-height: 1.8;
   flex: 1;
+  color: white;
 }
 
 .footer .box .line .info span {
