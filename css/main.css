@@ -1536,7 +1536,7 @@ ul {
   padding-top: var(--mainSectionPaddingTop);
   padding-bottom: var(--mainSectionPaddingTop);
   position: relative;
-  background-image: url(../images/stats.jpg);
+  background-image: url(../Images/stats.jpg);
   background-size: cover;
   min-height: 300px;
 }
@@ -1628,7 +1628,7 @@ ul {
 }
 
 .discount .image {
-  background-image: url("../images/discount-background1.jpg");
+  background-image: url("../Images/discount-background1.jpg");
   background-size: cover;
   color: white;
   flex-basis: 50%;
