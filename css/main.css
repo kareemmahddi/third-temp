@@ -425,7 +425,7 @@ ul {
   bottom: 30px;
   left: 50%;
   transform: translateX(-50%);
-  transform: var(--transition-duration);
+  transition: var(--transition-duration);
 }
 
 .landing .go-down:hover {
